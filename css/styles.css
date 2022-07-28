@@ -1456,9 +1456,12 @@ background: #02a2c4;
 	background-color: #2657a7;
 }
 .media-body a{
-	font-size: 16px;
-	color: #2657a7;
+	color: #ffffff;
 }
+.media-body a .white-text{
+	color: #2657a7 ;
+}
+
 .footer .footer-col {
 	margin-bottom: 2.25rem;
 }
